@@ -1,6 +1,6 @@
 //Program to demonstrate unchecked exception
 
-package com.tns.ifet.daytwelve.daytwelve;
+package com.tns.ifet.daytwelve;
 
 public class UncheckedException {
 	public static void main(String[] args) {

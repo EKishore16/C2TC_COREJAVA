@@ -1,4 +1,4 @@
-package com.tns.ifet.daytwelve.daytwelve;
+package com.tns.ifet.daytwelve;
 
 import java.util.Arrays;
 

@@ -1,5 +1,5 @@
 //Program to define User defined exception class
-package com.tns.ifet.daytwelve.daytwelve;
+package com.tns.ifet.daytwelve;
 
 public class InvalidMarksException extends Exception{
 

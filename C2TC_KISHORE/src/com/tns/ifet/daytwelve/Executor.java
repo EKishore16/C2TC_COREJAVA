@@ -1,5 +1,5 @@
 //Program to implement student module
-package com.tns.ifet.daytwelve.daytwelve;
+package com.tns.ifet.daytwelve;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;

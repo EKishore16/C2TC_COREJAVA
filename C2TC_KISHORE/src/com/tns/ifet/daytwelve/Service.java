@@ -1,5 +1,5 @@
 //Program to define service class
-package com.tns.ifet.daytwelve.daytwelve;
+package com.tns.ifet.daytwelve;
 
 public class Service   {
 	
