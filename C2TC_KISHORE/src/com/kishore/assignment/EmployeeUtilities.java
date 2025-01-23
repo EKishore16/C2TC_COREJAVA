@@ -6,7 +6,8 @@ package com.kishore.assignment;
 */
 
 public class EmployeeUtilities {
-	public static void printEmployeeDetails(Employee employee) {
+	
+	public static void printEmployeeDetails(Employee employee) {	
 		System.out.println("--------------------------------------------");
 		System.out.println("Employee Name: " + employee.getName());
 		System.out.println("Employee ID: " + employee.getEmployeeId());
